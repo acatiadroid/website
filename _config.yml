@@ -5,7 +5,7 @@ url: "https://acatiadroid.github.io"
 github_username:  acatiadroid
 
 show_excerpts: true
-permalink: /:collection/:year-:month-:day-:title:output_ext
+permalink: /:collection/:name
 
 theme: minima
 plugins:
