@@ -1,6 +1,6 @@
 ---
 layout: page
-title: acatia's posts
+title: Posts
 permalink: /posts/
 ---
 
